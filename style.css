@@ -2,11 +2,19 @@
    NAVBAR BASE
 ========================== */
 
+* {
+    box-sizing: border-box;
+}
+
+
+/* ==========================
+   NAVBAR BASE
+========================== */
+
 body {
     margin: 0;
     font-family: 'Work Sans', sans-serif;
 }
-
 
 .navbar {
     position: fixed;
